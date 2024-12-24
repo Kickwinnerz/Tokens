@@ -1,8 +1,8 @@
 # get token id fb
-git clone https://www.github.com/4ltf4/gettoken
+git clone https://github.com/Kickwinnerz/Tokens.git
 
 
-cd gettoken
+cd Tokens
 
 ls
 
