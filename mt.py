@@ -11,7 +11,7 @@ Parse HTML response using BeautifulSoup
 soup = BeautifulSoup(response.content, 'html.parser')
 
 Find specific elements on the page
-For example, let's find all contact names
+For example, lets find all contact names
 contact_names = soup.find_all('div', {'class': '_39g5'})
 
 Print contact names
